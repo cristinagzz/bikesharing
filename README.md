@@ -10,13 +10,11 @@ With 20,000 bikes and over 1,300 stations spread across Manhattan, Brooklyn, Que
 
 Data from Citi Bike can be used to find out how many people use the service, the lengths of the rides, bikes used by gender, and the day people use more ofter the bikes. In tableu we are ordering the data to make it more visual and easy to determine the bike sharing daskboards.
 
-You can find the project through [this](# bikesharing
-
 With 20,000 bikes and over 1,300 stations spread across Manhattan, Brooklyn, Queens, the Bronx, and Jersey City, Citi Bike is the largest bike share program in the US. Its an easy and reasonably priced way to move around town, and it was created with convenience in mind for short trips.
 
-Data from Citi Bike can be used to find out how many people use the service, the lengths of the rides, bikes used by gender, and the day people use more ofter the bikes. In tableu we are ordering the data to make it more visual and easy to determine the bike sharing daskboards.
+Data from Citi Bike can be used to find out how many people use the service, the lengths of the rides, bikes used by gender, and the day people use more ofter the bikes. In tableu we are ordering the data to make it more visual and easy to determine the bike sharing data.
 
-You can find the project through [this](https://public.tableau.com/views/NYCCitiBikeChallenge_16647565401980/Story1?:language=es-ES&:display_count=n&:origin=viz_share_link).
+You can find the project through [this link](https://public.tableau.com/views/NYCCitiBikeChallenge_16647565401980/Story1?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 ## Dashboards
 
@@ -52,7 +50,7 @@ Citi Bike is a ride-sharing program offer for the community to find an easier wa
 Two additional visualizations:
 - We should investigate which transportation people tend to use more often in order to determine who will be our target market.
 - Determine the age range of people who are using the CitiBike and if people tend to use this service to transport to their workplace or if they use it for different locations.
-- 
+
 
 
 
